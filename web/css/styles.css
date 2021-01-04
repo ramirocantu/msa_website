@@ -140,16 +140,16 @@ strong {
 }
 
 .section-title {
-	color: #14bf98;
-	font: 500 0.8125rem/1.125rem "Montserrat", sans-serif;
+	color: #013f7c;
+	font: 800 1.1125rem/1.125rem "Montserrat", sans-serif;
 }
 
 .btn-solid-reg {
 	display: inline-block;
 	padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid #013f7c;
 	border-radius: 0.25rem;
-	background-color: #14bf98;
+	background-color: #013f7c;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -158,16 +158,16 @@ strong {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #013f7c;
 	text-decoration: none;
 }
 
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.125rem 1.375rem 2.125rem;
-	border: 0.125rem solid #14bf98;
+	border: 0.125rem solid #013f7c;
 	border-radius: 0.25rem;
-	background-color: #14bf98;
+	background-color: #013f7c;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -176,7 +176,7 @@ strong {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #14bf98;
+	color: #013f7c;
 	text-decoration: none;
 }
 
@@ -897,7 +897,7 @@ input[type='checkbox'] {
 /*     07. Services     */
 /************************/
 .cards-2 {
-	padding-top: 6.625rem;	
+	padding-top: 4.625rem;	
 	padding-bottom: 1.25rem;	
 	background-color: #fbfbfb;
 }
@@ -1320,8 +1320,8 @@ input[type='checkbox'] {
 /*     12. Projects     */
 /************************/
 .filter {
-	padding-top: 6.5rem;
-	padding-bottom: 7rem;
+	padding-top: 4.625rem;
+    padding-bottom: 1.25rem;
 }
 
 .filter .section-title {

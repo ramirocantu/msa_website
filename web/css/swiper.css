@@ -603,6 +603,7 @@ button.swiper-pagination-bullet {
 .swiper-container-flip .swiper-slide-active,
 .swiper-container-flip .swiper-slide-active .swiper-slide-active {
   pointer-events: auto;
+  width: 50%;
 }
 .swiper-container-flip .swiper-slide-shadow-top,
 .swiper-container-flip .swiper-slide-shadow-bottom,
